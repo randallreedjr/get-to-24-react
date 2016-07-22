@@ -1,0 +1,8 @@
+{
+  "generator-react-webpack": {
+    "appName": "getTo24React",
+    "style": "scss",
+    "postcss": false,
+    "generatedWithVersion": 3
+  }
+}
